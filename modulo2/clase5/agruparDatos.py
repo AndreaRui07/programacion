@@ -6,3 +6,4 @@ dataframe = pd.read_csv("datos.csv")
 df_agrupado = dataframe.groupby("Ciudad")["Salario"].mean()
 print(df_agrupado)
 
+# .groupby() agrupa elementos

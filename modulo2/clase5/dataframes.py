@@ -37,3 +37,13 @@ print(dataframe.iloc[2])
 # datos estadisticos
 
 print(dataframe.describe()) # estadisticas generales para columnas numericas
+# count = cantidad de entradas/filas
+# mean = promedio (media aritmetica)
+# std = desviacion estandar
+# min = valor minimo encontrado
+# max = valor maximo encontrado
+# 25% (1er cuartil): El 25% de los valores son menores o iguales a este número.
+
+# 50% (mediana): La mitad de los valores están por debajo de este número.
+
+# 75% (3er cuartil): El 75% de los valores son menores o iguales a este número.

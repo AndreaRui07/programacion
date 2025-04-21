@@ -1,0 +1,28 @@
+Ejercicio 1: crear un DataFrame
+crea un DataFrame con la siguiente información:
+
+Nombre     Edad    Ciudad        Salario
+Ana         25    Buenos Aires    3000
+Juan        30    Córdoba         4000
+Pedro       35    Rosario         5000
+Lucia       40    Mendoza         6000
+Carlos      50    Tucumán         7000
+
+Instrucciones:
+
+Crea un DataFrame con esta información.
+Muestra el DataFrame en pantalla.
+
+Ejercicio 2: Acceder a columnas
+Instrucciones:
+
+Imprime en pantalla solo los nombres de las personas.
+Imprime en pantalla solo los Salarios.
+
+Ejercicio 3 : filtrar datos.
+Instrucciones:
+
+Muestra solo las filas donde la edad sea mayor que 30.
+Muestra solo las personas que ganan más de 4000
+
+Ejercicio 4: Modificar datos.

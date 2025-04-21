@@ -35,7 +35,7 @@ print(verificar_edad(nombre, edad))
 # Ejercicio 2: Crear una función que reciba una lista de números y devuelva la suma de los números pares.
 
 
-def suma_pares(numeros):
+def suma_pares(listaNumeros):
     sumaNumeros = 0
     for i in listaNumeros:
         if i % 2 == 0:

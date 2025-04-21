@@ -11,3 +11,6 @@ def categorizar_edad(edad):
     
 dataframe["categoria edad"] = dataframe["Edad"].apply(categorizar_edad)
 print(dataframe)
+
+# usando def creamos una condicion
+# .apply aplica dicha condicion al dataframe
